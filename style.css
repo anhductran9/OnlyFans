@@ -34,6 +34,10 @@ strong {
     font-weight: 700;
 }
 
+.article-image{
+    min-width: 250px;
+    width: 100%;
+}
 /*h1 sub*/
 .subtitle  {
     font-weight: 700;
